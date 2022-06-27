@@ -1,0 +1,15 @@
+
+
+.sidebar {
+    flex: .3;
+}
+.content{
+    flex: .6;
+}
+
+.list-group-item{
+
+}
+.list-group-item:hover{
+    cursor: pointer;
+}

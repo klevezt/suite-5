@@ -1,0 +1,14 @@
+.form-container label{
+    color: white;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.form-container h2{
+    color: white;
+    font-size: 30px;
+}
+
+.form-container input {
+    margin-bottom: 10px;
+}
